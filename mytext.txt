@@ -1,0 +1,5 @@
+Creating a new text file
+
+with some random text
+
+to check git bash command line execution
